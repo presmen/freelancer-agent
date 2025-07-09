@@ -4,3 +4,6 @@ sentence-transformers
 faiss-cpu
 streamlit
 python-dotenv
+langchain
+langchain-community
+langchain-core
