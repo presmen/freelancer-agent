@@ -14,4 +14,5 @@ def run_agent(user_input):
     )
 
     response = llm.invoke(prompt)
-    return response
+    return response.content  # ✅ Extract only the message text
+
