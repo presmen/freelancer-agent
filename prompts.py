@@ -11,7 +11,3 @@ Your task:
 
 Respond conversationally and professionally.
 """
-## 📚 Author
-
-Built by [Preshit Mendhekar](https://www.linkedin.com/in/preshitmendhekar), a seasoned Product Owner and Business Process Architect actively transitioning into Product Management.  
-Specialized in fintech, innovation strategy, and intelligent product ecosystems.
