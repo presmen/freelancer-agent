@@ -1,4 +1,4 @@
-P# prompts.py
+# prompts.py
 
 PROFILE_PROMPT = """
 You are a financial guidance agent specializing in helping freelancers manage money.
